@@ -364,7 +364,7 @@ main {
 }
 
 .section-media-tall {
-    min-height: clamp(320px, 48vw, 360px);
+    min-height: clamp(320px, 48vw, 320px);
 }
 
 .section-media-tall img {
