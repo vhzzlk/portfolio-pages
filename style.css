@@ -363,14 +363,8 @@ main {
     box-shadow: 0 30px 60px rgba(10, 0, 20, 0.35);
 }
 
-.section-media-tall {
-    min-height: clamp(320px, 48vw, 320px);
-}
 
-.section-media-tall img {
-    height: 100%;
-    transform: none;
-}
+
 
 .hero {
     background: radial-gradient(117% 117% at 88% 16%, #320064 0%, var(--panel-bg) 45%, #12002D 100%);
